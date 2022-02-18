@@ -1,1 +1,1 @@
-# Deep-learning-applied-to-the-recognition-of-animals-and-objects
+# Deep-learning-applied-to-image-classification
